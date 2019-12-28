@@ -38,6 +38,7 @@ public class Worker extends JobIntentService {
 
     private DatabaseReference reff;
 
+
     private static final String TAG = "Worker";
     public static final String RECEIVER = "receiver";
     public static final int SHOW_RESULT = 123;
