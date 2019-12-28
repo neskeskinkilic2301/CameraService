@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "200655624921",
+    "firebase_url": "https://smart-home-2b678.firebaseio.com",
+    "project_id": "smart-home-2b678",
+    "storage_bucket": "smart-home-2b678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200655624921:android:0883169dab4d675a94fcc8",
+        "android_client_info": {
+          "package_name": "com.cenah.cameraservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200655624921-psvvu2gfjmf6q549eiuvdnun1jbd9hns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cenah.cameraservice",
+            "certificate_hash": "926b623c9b92789a94e54be7a71223fba79ca69a"
+          }
+        },
+        {
+          "client_id": "200655624921-me2ounca11o82j4u2kqsnkupd9iuq72j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjpzZ8K2t2-EcKWxXUlGWH0V1SdEA0l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200655624921-me2ounca11o82j4u2kqsnkupd9iuq72j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200655624921:android:c6278a036a87bc2594fcc8",
+        "android_client_info": {
+          "package_name": "com.cenah.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200655624921-v05h5649i1bnmgbb3qlh0n5d6c9rmoin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cenah.smarthome",
+            "certificate_hash": "5d90a84ffb60e0b8822936a19548f1df4f1c5ed2"
+          }
+        },
+        {
+          "client_id": "200655624921-me2ounca11o82j4u2kqsnkupd9iuq72j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjpzZ8K2t2-EcKWxXUlGWH0V1SdEA0l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200655624921-me2ounca11o82j4u2kqsnkupd9iuq72j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
